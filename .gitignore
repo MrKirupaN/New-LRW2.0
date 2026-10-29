@@ -1,0 +1,39 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pickle
+.venv/
+venv/
+
+# Environment - NEVER push this
+.env
+
+# Uploads
+uploads/
+
+# Node
+node_modules/
+dist/
+
+# Vite cache
+.vite/
+
+# Test & type-check caches
+.pytest_cache/
+.mypy_cache/
+
+# IDE
+.vscode/
+.idea/
+backend/gmail*
+backend/gmail/
+*.pickle
+*.json.json
+
+# Environment files
+.env
+*.env
+
+backend/.env
+frontend/.env
